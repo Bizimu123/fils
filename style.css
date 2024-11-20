@@ -1,0 +1,54 @@
+form{
+    background-color: white;
+    height: 15rem;
+    border-radius: 20px;
+    width: 40rem;
+    box-shadow: 5px 5px 5px blue;
+    
+}
+input{
+    border-radius: 5px;
+    height: 20px;
+    border:  2px solid black;
+
+}
+label{
+    font-weight: bold;
+    font-size: 15px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+}
+button{
+    height: 2rem;
+    width: 9rem;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: firebrick;
+}
+button:hover{
+    background-color: green;
+}
+button:active{
+    background-color: blue;
+}
+table{background-color: white;
+margin-top: 5rem;
+box-shadow: 3px 3px 3px 3px rgb(0, 255, 102);
+
+}
+body{
+    background-color: black;
+}
+#btn{
+    text-align: center;
+    justify-content: center;
+    margin: 9rem;
+    margin-left: 30rem;
+    margin-bottom: 89rem;
+}
